@@ -1,4 +1,4 @@
-<h1 align="center">sample-project</h1>
+<h1 align="center">tools-i-use</h1>
 <p align="center">
 <!--  <img src="" />-->
   <a href="https://github.com/Bhupesh-V/sample-project/blob/master/LICENSE">
@@ -16,13 +16,13 @@
   </a>
 </p>
 
-> This is a template repository used for creating side-projects.
+> Tools that help me ease up my life.
 
 
 
 ## Author
 
-:bust_in_silhouette: **Bhupesh Varshney**
+👤 **Bhupesh Varshney**
 
 - Twitter : [@bhupeshimself](https://twitter.com/bhupeshimself)
 - DEV : [bhupesh](https://dev.to/bhupesh)
