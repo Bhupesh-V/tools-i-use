@@ -94,6 +94,12 @@
   <blockquote>My daily social by & for developers, also for blogging (a lot)</blockquote>
 </details>
 
+### 14. [slides.com](https://slides.com/)
+<details><summary>Why ?</summary>
+  <blockquote>Bye Bye! Microsoft</blockquote>
+</details>
+
+
 ## Author
 
 👤 **Bhupesh Varshney**
@@ -109,6 +115,7 @@ Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL
 <a href="https://www.patreon.com/bhupesh">
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
+
 
 ## 📝 License
 
