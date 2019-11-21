@@ -99,6 +99,11 @@
   <blockquote>Bye Bye! Microsoft</blockquote>
 </details>
 
+### 15. [namelix](https://namelix.com)
+<details><summary>Why ?</summary>
+  <blockquote>Same as DeepNamer, for naming ideas</blockquote>
+</details>
+
 
 ## Author
 
