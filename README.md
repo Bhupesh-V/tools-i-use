@@ -104,6 +104,16 @@
   <blockquote>Same as DeepNamer, for naming ideas</blockquote>
 </details>
 
+### 16. [Stylus Browser Extension](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
+<details><summary>Why ?</summary>
+  <blockquote>Cuz GitHub still doesn't have a Dark Mode :(</blockquote>
+</details>
+
+### 17. [Dark Reader Browser Extension (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/darkreader/?src=search)
+<details><summary>Why ?</summary>
+  <blockquote>My eyes are happy :)</blockquote>
+</details>
+
 
 ## Author
 
