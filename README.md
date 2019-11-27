@@ -56,6 +56,7 @@
     <li><a href="https://packagecontrol.io/packages/JavaScript%20Completions">Java​Script Completions</a></li>
     <li><a href="https://packagecontrol.io/packages/BracketHighlighter">Bracket​Highlighter</a></li>
     <li><a href="https://packagecontrol.io/packages/GitGutter">Git​Gutter</a></li>
+    <li><a href="https://packagecontrol.io/packages/sublack">sublack</a></li>
   </ol>
 </details>
 
