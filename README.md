@@ -115,6 +115,22 @@
   <blockquote>My eyes are happy :)</blockquote>
 </details>
 
+### 18. Software Testing
+<details><summary>Static</summary>
+  <a href="https://www.codefactor.io/">CodeFactor</a>
+  <a href="https://www.codacy.com/">Codacy</a>
+  <a href="https://lgtm.com/">LGTM</a>
+  <a href="https://github.com/psf/black">black (python)</a>
+  <a href="https://www.pylint.org/">Pylint (python)</a>
+  <a href=""></a>
+</details>
+
+<details><summary>Dynamic</summary>
+  <a href="https://coveralls.io/">Coveralls</a>
+  <a href="https://codecov.io/">Codecov.io</a>
+  <a href="https://codeclimate.com/">CodeClimate</a>
+</details>
+
 
 ## Author
 
