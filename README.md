@@ -2,7 +2,7 @@
 <p align="center">
 <!--  <img src="" />-->
   <a href="https://github.com/Bhupesh-V/tools-i-use/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/Bhupesh-V/tools-i-use" target="_blank" />
+    <img alt="License" src="https://img.shields.io/github/license/Bhupesh-V/tools-i-use" />
   </a>
   <a href="https://github.com/Bhupesh-V/tools-i-use/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/Bhupesh-V/tools-i-use?color=blueviolet" />
