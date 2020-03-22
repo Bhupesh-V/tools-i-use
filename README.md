@@ -130,6 +130,12 @@
      <li><a href="https://codeclimate.com/">CodeClimate</a></li>
 </details>
 
+### 19. Product Demos
+<details><summary>Tools for showing demo of your webapp/cli</summary>
+    <li><a href="https://dimmy.club/">Dimmy.club</a></li>
+    <li><a href="https://qurb.rishimohan.me/?ref=producthunt">Qurb</a></li>
+    <li><a href="https://asciinema.org/">asciinema</a></li>
+</details>
 
 ## Author
 
