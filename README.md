@@ -137,6 +137,12 @@
     <li><a href="https://asciinema.org/">asciinema</a></li>
 </details>
 
+### 20. [License Selector](https://ufal.github.io/public-license-selector/)
+<details><summary>Why ?</summary>
+  <blockquote>For Licensing my projects which are compatible with libraries I use</blockquote>
+</details>
+
+
 ## Author
 
 👤 **Bhupesh Varshney**
