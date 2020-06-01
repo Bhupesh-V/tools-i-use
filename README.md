@@ -1,13 +1,14 @@
-<h1 align="center">tools-i-use</h1>
+<h1 align="center">tools-i-use :wrench: </h1>
 <p align="center">
-<!--  <img src="" />-->
+  <sub>Tools that help me ease up my life.</sub>
+  </p>
+<p align="center">
   <a href="https://github.com/Bhupesh-V/tools-i-use/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/Bhupesh-V/tools-i-use" />
   </a>
   <a href="https://github.com/Bhupesh-V/tools-i-use/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/Bhupesh-V/tools-i-use?color=blueviolet" />
   </a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Bhupesh-V/tools-i-use">
   <a href="https://bhupesh.codes/tools-i-use/">
     <img alt="Website Status" src="https://img.shields.io/website?down_color=red&down_message=offline&up_color=orange&up_message=online&url=https%3A%2F%2Fbhupesh.codes%2Ftools-i-use%2F" />
   </a>
@@ -16,7 +17,6 @@
   </a>
 </p>
 
-> Tools that help me ease up my life.
 
 
 ### 1. [shields](https://shields.io/)
@@ -179,7 +179,7 @@ Support me by giving a ⭐️ if this project helped you! or just [![Twitter URL
 
 ## 📝 License
 
-Copyright © 2019 [Bhupesh Varshney](https://github.com/Bhupesh-V).<br />
+Copyright © 2020 [Bhupesh Varshney](https://github.com/Bhupesh-V).<br />
 This project is [MIT](https://github.com/Bhupesh-V/tools-i-use/blob/master/LICENSE) licensed.
 
 ## 👋 Contributing
