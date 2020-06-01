@@ -139,8 +139,25 @@
 
 ### 20. [License Selector](https://ufal.github.io/public-license-selector/)
 <details><summary>Why ?</summary>
-  <blockquote>For Licensing my projects which are compatible with libraries I use</blockquote>
+  <blockquote>For Licensing my projects which are compatible with projects I use</blockquote>
 </details>
+
+#### Worth Mentioning (which i use occassionally)
+
+- [sayit - visualization of related subreddits](https://github.com/anvaka/sayit)
+- [textcraft - minecraft & 8-bit style logo generator](https://textcraft.net/)
+- [screenpeek - paste URL and generate mockup](https://screenpeek.io/)
+- [Brandmark - logo generator](https://app.brandmark.io/v2/)
+- [WordVis - the visual dictionary](http://wordvis.com/)
+- [JSON Formatter](https://jsonformatter.curiousconcept.com/)
+- [CSS Gradient generator](https://cssgradient.io/)
+- [GitHub buttons for your site](https://ghbtns.com/#star)
+- [Faux Code Generator](http://knutsynstad.com/fauxcode/)
+- [Favicon & App Icon Generator](https://www.favicon-generator.org/)
+- [Text to ASCII Art](https://onlineasciitools.com/convert-text-to-ascii-art)
+- [Online Regex Tester](https://regex101.com/)
+- [For The Badge](https://forthebadge.com/)
+- [tldr - community driven simplified man pages](https://tldr.sh/)
 
 
 ## Author
